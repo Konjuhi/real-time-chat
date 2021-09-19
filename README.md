@@ -1,10 +1,8 @@
 # real_chat_fluttter
-
-![Screenshot_8](https://user-images.githubusercontent.com/44701013/133926142-a577e01a-0731-4081-bb69-0f6229317b33.png)
-![Screenshot_7](https://user-images.githubusercontent.com/44701013/133926145-ccf5dd32-948d-4aae-a903-53884423d7d5.png)
-![Screenshot_6](https://user-images.githubusercontent.com/44701013/133926147-55c9199f-b527-4569-a53b-ac85d61a2049.png)
-![Screenshot_5](https://user-images.githubusercontent.com/44701013/133926148-56538fa9-3645-4442-a93a-47ec3052d4a4.png)
-![Screenshot_4](https://user-images.githubusercontent.com/44701013/133926149-f57a70af-a580-4291-a64e-aca1fb7ea81d.png)
-![Screenshot_3](https://user-images.githubusercontent.com/44701013/133926150-da001af7-cc41-4c07-b6f7-54104094a0a4.png)
-![Screenshot_2](https://user-images.githubusercontent.com/44701013/133926152-0592cdaa-e5d1-4f09-b408-dfed8629f150.png)
+![Screenshot_1](https://user-images.githubusercontent.com/44701013/133926243-0cac9617-f80f-40bc-aa87-1157a458879e.png)
+![Screenshot_2](https://user-images.githubusercontent.com/44701013/133926245-149e577f-67b8-44f2-bb21-d5573d0b9078.png)
+![Screenshot_3](https://user-images.githubusercontent.com/44701013/133926246-46fb1519-8fde-4c7b-9921-d36e9d57bc49.png)
+![Screenshot_4](https://user-images.githubusercontent.com/44701013/133926247-59817725-842c-4daf-b8be-1f7b96e3ab2f.png)
+![Screenshot_5](https://user-images.githubusercontent.com/44701013/133926248-68ae6357-afd9-44d1-88de-ffecbb5b7db4.png)
+![Screenshot_6](https://user-images.githubusercontent.com/44701013/133926250-5b98d952-5793-4ea2-a075-e196f47cf96e.png)
 
