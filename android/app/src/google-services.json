@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "185773949010",
+    "project_id": "real-chat-flutter-370f0",
+    "storage_bucket": "real-chat-flutter-370f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185773949010:android:09631ce799d1b7c10d5f8b",
+        "android_client_info": {
+          "package_name": "com.example.real_chat_fluttter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "185773949010-97o2so457hrd6e6kbm8rtpc040r3hc0q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.real_chat_fluttter",
+            "certificate_hash": "fa8a326510de2c788eb163aaedbe1929292e5d54"
+          }
+        },
+        {
+          "client_id": "185773949010-h61upbbpq5p4vsrchh3938qjmqoglmbn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWcG4FZRfwzDfqu4bRkosQz-3TGmz4IR8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "185773949010-h61upbbpq5p4vsrchh3938qjmqoglmbn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
